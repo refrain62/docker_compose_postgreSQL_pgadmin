@@ -5,9 +5,9 @@
 # https://iteng-pom.com/archives/1075
 
 
-chmod -R 777 ./pgadmin
-chmod -R 777 ./postgres
-
-docker-compose up -d
+chmod -R 777 ./pgadmin  
+chmod -R 777 ./postgres  
+  
+docker-compose up -d  
 
 
